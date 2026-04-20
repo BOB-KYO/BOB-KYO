@@ -1,4 +1,4 @@
-# Hi, I'm Kyoseok (Kyo) Hwang 👋
+# Hi, I'm Kyoseok Hwang(EN:Richard) 👋
 
 **IT Support & Operations | Data Science Graduate Student | IoT & Smart Systems**
 
