@@ -74,8 +74,9 @@ Collaborative technical project connecting RFID scans to playback commands with 
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BOB-KYO&theme=github)
-![Repositories by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BOB-KYO&theme=github)
+![Public Repositories](https://img.shields.io/badge/Public_Repositories-8-181717?style=flat-square&logo=github&logoColor=white)
+![Featured Projects](https://img.shields.io/badge/Featured_Projects-2-0969DA?style=flat-square&logo=github&logoColor=white)
+![Profile Focus](https://img.shields.io/badge/Profile_Focus-Data_Analytics-2DA44E?style=flat-square)
 
 </div>
 
