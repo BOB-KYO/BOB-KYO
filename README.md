@@ -13,7 +13,7 @@ M.S. Candidate in Data Science · **University of Houston–Clear Lake**, TX
 ### About
 
 - M.S. Data Science candidate at **UHCL**, expected December 2027
-- B.S. in Computer Science with two years of IT support and technical operations experience
+- B.S. in Computer Science with three years of IT support and technical operations experience
 - Interested in **Data Analytics, Business Intelligence, Operations Analytics, and Technical Systems**
 - Experienced in turning technical problems and data into practical findings, documentation, and user support
 
@@ -25,9 +25,9 @@ M.S. Candidate in Data Science · **University of Houston–Clear Lake**, TX
 
 Graduate team project using Python, Jupyter Notebook, O*NET 30.2, BLS OEWS, and public professional data. Contributed to source review, job-title normalization, coordination, and written analysis examining classification gaps around emerging computing roles.
 
-#### [RFID-Based Jukebox System](https://github.com/BOB-KYO/Spotify-RFID-Record-Player)
+#### [RFID-Based Jukebox System](https://github.com/talaexe/Spotify-RFID-Record-Player)
 
-Collaborative technical project connecting RFID scans to playback commands with Python and Arduino. Tested the hardware/software interaction and refined scan-to-action behavior for repeatable playback.
+Collaborative team project (team repository: talaexe/Spotify-RFID-Record-Player) connecting RFID scans to playback commands with Python and Arduino. Tested the hardware/software interaction and refined scan-to-action behavior for repeatable playback.
 
 ---
 
